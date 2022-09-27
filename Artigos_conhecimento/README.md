@@ -1,0 +1,4 @@
+# Links de ótimos conteúdos
+
+Guia para projetos de classificação
+https://www.kaggle.com/code/durgancegaur/a-guide-to-any-classification-problem
